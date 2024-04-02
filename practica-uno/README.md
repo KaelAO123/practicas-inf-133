@@ -1,10 +1,10 @@
 # PRACTICA PRIMER PARCIAL
 ## Antes de empezar:
 Completa tus datos personales en la siguiente tabla:
--------------------------
-| Nombres  | Apellidos  | CI   |
-| -------- | ---------- | ---- |
-| `nombre` | `apellido` | `ci` |
+--------------------------------------------------
+|      Nombres     |   Apellidos   |    CI     |
+|      --------    |  ----------   |    ----   |
+| `Carlos Eudardo` | `Reyes Barja` | `9911763` |
 
 ## Ejercicio 1
 Construye un servidor con el protocolo SOAP que permita a un cliente realizar las operaciones de suma, resta, multiplicación y división de dos números enteros.
